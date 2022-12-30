@@ -85,7 +85,7 @@ author:
   bio              : "Robotics Engineering"
   location         : "Daegu"
   employer         : "DGIST"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=eod9uX0AAAAJ&hl=en"
   email            : "ihsanullah736@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Ihsan-Ullah-15"
