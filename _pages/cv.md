@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Abdul Wali Khan University, 2010-2014
+* M.S. in Computer Science and Engineering, Chonbuk National University, 2015-2017
+* Ph.D in Robotics and Mechatronics Engineering, Daegu Gyeongbuk Institute of Science and Technololgy, 2018-2023
 
 Work experience
 ======
