@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ihsan Ullah / PhD"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Ihsan Ullah"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://ihsan149.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Ihsan149/ihsan149.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ihsan Ullah"
-  avatar           : "ihsan_nic.jpg"
-  bio              : "PhD in Robotics Engineering"
-  location         : "Daegu, South Korea"
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=eod9uX0AAAAJ&hl=en"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Ihsan-Ullah-15"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Ihsan149"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :"https://www.youtube.com/channel/UCFAxRIq2uPxHIQmBHT9przw"
+  youtube          :
   wikipedia        :
 
 
