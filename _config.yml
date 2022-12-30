@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ihsan Ullah"
-  avatar           : "ihsan_nic.jpg"
+  avatar           : "/images/ihsan_nic.jpg"
   bio              : "PhD in Robotics Engineering"
   location         : "Daegu, South Korea"
   employer         :
