@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant for Machine Learning (Graduate)"
 collection: teaching
-type: "Workshop"
+type: "Cousres"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "DGIST, Robotics and Mechatronics Engineering"
 date: 2015-01-01
-location: "City, Country"
+location: "Daegu, South Korea"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
