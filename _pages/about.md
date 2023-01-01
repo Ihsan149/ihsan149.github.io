@@ -38,7 +38,7 @@ Work experience
 * 2015-2015 🠚 M.S Student Researcher:
   * [Software Engineering Lab (SEL)](https://sites.google.com/view/mispl/home?authuser=0)
   * Duties included: Vehicle Detection and Classification
-  * Supervisor: [Prof. Hyo Jong Lee]()
+  * Supervisor: [Prof. Hyo Jong Lee](https://wz3.jbnu.ac.kr/jbnuProfl/cseeng/243/1440/artclView.do)
 
 Publications
 ======
