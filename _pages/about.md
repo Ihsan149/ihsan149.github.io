@@ -10,7 +10,11 @@ redirect_from:
 
 I have a strong educational background in computer science and engineering. I obtained my Bachelor degree in Computer Science from [Abdul Wali Khan University](https://awkum.edu.pk/) in Pakistan and my Master degree with distinction from the Department of [Computer Science and Engineering](https://wz3.jbnu.ac.kr/cseeng/index..do) at [Chonbuk National University](https://www.jbnu.ac.kr/eng/) in South Korea. I have completed a PhD under the supervision of [Prof. Sang Hyun Park](https://sites.google.com/view/mispl/members/professor?authuser=0) in the Department of [Robotics and Mechatronics Engineering](https://robot.dgist.ac.kr/) at [DGIST](https://dgist.ac.kr/en/).
 
-In addition to my formal education, I am currently a researcher at the [Medical Image and Signal Processing Lab (MISPL)](https://sites.google.com/view/mispl/home?authuser=0) in the Department of Robotics and Mechatronics Engineering at DGIST. Through this experience, I have gained hands-on experience with a variety of medical image analysis techniques, including deep learning. I am skilled in using popular deep learning frameworks such as TensorFlow and PyTorch, and I have a strong understanding of the principles and techniques of deep learning.
+Research Intrest
+======
+Most deep learning-based methods require a considerable amount of labeled data, which is difficult to come by in the computer vision and medical field. I am interested in developing a unsupervised domain adaptation methods to learn from synthetic data to mitigate the labeling efforts.
+Keywords: Deep learning, Unsupervised Domain Adaptation, Segmentation, Classification, Detection. 
+<!-- In addition to my formal education, I am currently a researcher at the [Medical Image and Signal Processing Lab (MISPL)](https://sites.google.com/view/mispl/home?authuser=0) in the Department of Robotics and Mechatronics Engineering at DGIST. Through this experience, I have gained hands-on experience with a variety of medical image analysis techniques, including deep learning. I am skilled in using popular deep learning frameworks such as TensorFlow and PyTorch, and I have a strong understanding of the principles and techniques of deep learning. -->
 
 Education
 ======
