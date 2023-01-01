@@ -12,7 +12,6 @@ Plants contribute significantly to the global food supply. Various Plant disease
 
 ---
 Proposed Framework and Examples
----
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/fpls.png'>
 
 [Download paper here](https://ihsan149.github.io/files/fpls.pdf)
