@@ -38,21 +38,6 @@ Work experience
   * [Software Engineering Lab (SEL)](https://sites.google.com/view/mispl/home?authuser=0)
   * Duties included: Vehicle Detection and Classification
   * Supervisor: [Prof. Hyo Jong Lee]()
-  
-Skills
-======
-* Deep Learning
-  * Pytorch
-  * Tensorflow
-  * Keras   
-* Programming Languages 
-  * Python
-  * C++
-  * Matlab
-* Misc Skills
-  * Latex
-  * Origin Lab
-  * Prism
 
 Publications
 ======
@@ -72,6 +57,23 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
+Skills
+======
+* Deep Learning
+  * Pytorch
+  * Tensorflow
+  * Keras   
+* Programming Languages 
+  * Python
+  * C++
+  * Matlab
+* Misc Skills
+  * Latex
+  * Origin Lab
+  * Prism
+
+
 
 
 <!-- A data-driven personal website
