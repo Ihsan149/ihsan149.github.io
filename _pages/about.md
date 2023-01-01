@@ -12,6 +12,53 @@ I have a strong educational background in computer science and engineering. I ob
 
 In addition to my formal education, I am currently a researcher at the [Medical Image and Signal Processing Lab (MISPL)](https://sites.google.com/view/mispl/home?authuser=0) in the Department of Robotics and Mechatronics Engineering at DGIST. Through this experience, I have gained hands-on experience with a variety of medical image analysis techniques, including deep learning. I am skilled in using popular deep learning frameworks such as TensorFlow and PyTorch, and I have a strong understanding of the principles and techniques of deep learning.
 
+Education
+======
+* B.S. in Computer Science, Abdul Wali Khan University, 2010-2014
+* M.S. in Computer Science and Engineering, Chonbuk National University, 2015-2017
+* Ph.D in Robotics and Mechatronics Engineering, Daegu Gyeongbuk Institute of Science and Technololgy, 2018-2023
+
+Work experience
+======
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
