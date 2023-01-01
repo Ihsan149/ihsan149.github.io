@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ihsan Ullah PhD"
+title                    : "Ihsan Ullah, PhD"
 title_separator          : "-"
 name                     : &name "Ihsan Ullah"
 description              : &description "personal description"
