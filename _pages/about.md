@@ -36,7 +36,7 @@ Work experience
   * Supervisor: [Prof. Sang Hyun Park](https://sites.google.com/view/mispl/members/professor?authuser=0)
 
 * 2015-2015 🠚 M.S Student Researcher:
-  * [Software Engineering Lab (SEL)](https://sites.google.com/view/mispl/home?authuser=0)
+  * [Software Engineering Lab (SEL)](http://sel.chonbuk.ac.kr/selab/members.html)
   * Duties included: Vehicle Detection and Classification
   * Supervisor: [Prof. Hyo Jong Lee](https://wz3.jbnu.ac.kr/jbnuProfl/cseeng/243/1440/artclView.do)
 
