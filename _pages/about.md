@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have a strong educational background in computer science and engineering. I obtained my Bachelor degree in Computer Science from [Abdul Wali Khan University](https://awkum.edu.pk/) in Pakistan and my Master degree with distinction from the Department of [Computer Science and Engineering](https://wz3.jbnu.ac.kr/cseeng/index..do) at [Chonbuk National University](https://www.jbnu.ac.kr/eng/) in South Korea. I have completed a PhD under the supervision of [Prof. Sang Hyun Park](https://sites.google.com/view/mispl/members/professor?authuser=0) in the Department of [Robotics and Mechatronics Engineering](https://robot.dgist.ac.kr/) at [DGIST](https://dgist.ac.kr/en/).
+I have a strong educational background in computer science and engineering. I obtained my Bachelor degree in Computer Science from [Abdul Wali Khan University](https://awkum.edu.pk/) in Pakistan and my Master degree with distinction from the Department of [Computer Science and Engineering](https://wz3.jbnu.ac.kr/cseeng/index..do) at [Chonbuk National University](https://www.jbnu.ac.kr/eng/) in South Korea. I have completed my PhD under the supervision of [Prof. Sang Hyun Park](https://sites.google.com/view/mispl/members/professor?authuser=0) in the Department of [Robotics and Mechatronics Engineering](https://robot.dgist.ac.kr/) at [DGIST](https://dgist.ac.kr/en/).
 
 Research Intrest
 ======
@@ -37,7 +37,7 @@ Work experience
 * 2015-2015 -> M.S Student Researcher:
   * [Software Engineering Lab (SEL)](https://sites.google.com/view/mispl/home?authuser=0)
   * Duties included: Vehicle Detection and Classification
-  * Supervisor: [Prof. Hyo Jong Lee](https://sites.google.com/view/mispl/members/professor?authuser=0)
+  * Supervisor: [Prof. Hyo Jong Lee]()
   
 Skills
 ======
@@ -49,9 +49,8 @@ Skills
   * Python
   * C++
   * Matlab
-* Soft Skills
+* Misc Skills
   * Latex
-  * Microsoft 
   * Origin Lab
   * Prism
 
