@@ -24,24 +24,36 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2023 -> Doctoral Research Student:
+  * [Medical Image and Signal Processing Lab (MISPL)](https://sites.google.com/view/mispl/home?authuser=0)
+  * Duties included: Domain adaptation for semantic segmentation (Computer Vision/ Medical Field)
+  * Supervisor: [Prof. Sang Hyun Park](https://sites.google.com/view/mispl/members/professor?authuser=0)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2018 -> Post M.S Researcher:
+  * [Medical Image and Signal Processing Lab (MISPL)](https://sites.google.com/view/mispl/home?authuser=0)
+  * Duties included: Surgical Tool Segmentation and Tracking
+  * Supervisor: [Prof. Sang Hyun Park](https://sites.google.com/view/mispl/members/professor?authuser=0)
+
+* 2015-2015 -> M.S Student Researcher:
+  * [Software Engineering Lab (SEL)](https://sites.google.com/view/mispl/home?authuser=0)
+  * Duties included: Vehicle Detection and Classification
+  * Supervisor: [Prof. Hyo Jong Lee](https://sites.google.com/view/mispl/members/professor?authuser=0)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Learning
+  * Pytorch
+  * Tensorflow
+  * Keras   
+* Programming Languages 
+  * Python
+  * C++
+  * Matlab
+* Soft Skills
+  * Latex
+  * Microsoft 
+  * Origin Lab
+  * Prism
 
 Publications
 ======
