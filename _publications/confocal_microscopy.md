@@ -12,6 +12,6 @@ Confocal microscopy image analysis is a useful method for neoplasm diagnosis. Ma
 
 ---
 Proposed Framework and Examples
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/confocal_microscopy.png'>
 
 [Download paper here](https://ihsan149.github.io/files/confocal_microscopy.pdf)
