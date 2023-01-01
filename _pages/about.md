@@ -10,7 +10,7 @@ redirect_from:
 
 I have a strong educational background in computer science and engineering. I obtained my Bachelor degree in Computer Science from [Abdul Wali Khan University](https://awkum.edu.pk/) in Pakistan and my Master degree with distinction from the Department of [Computer Science and Engineering](https://wz3.jbnu.ac.kr/cseeng/index..do) at [Chonbuk National University](https://www.jbnu.ac.kr/eng/) in South Korea. I have completed my PhD under the supervision of [Prof. Sang Hyun Park](https://sites.google.com/view/mispl/members/professor?authuser=0) in the Department of [Robotics and Mechatronics Engineering](https://robot.dgist.ac.kr/) at [DGIST](https://dgist.ac.kr/en/).
 
-Research Intrest
+Research Statement
 ======
 Most deep learning-based methods require a considerable amount of labeled data, which is difficult to come by in the computer vision and medical field. I am interested in developing a unsupervised domain adaptation methods to learn from synthetic data to mitigate the labeling efforts.
 Keywords: Deep learning, Unsupervised Domain Adaptation, Segmentation, Classification, Detection. 
