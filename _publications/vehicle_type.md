@@ -12,7 +12,6 @@ Make and model recognition (MMR) of vehicles plays an important role in automati
 
 ---
 Proposed Framework and Examples
----
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/vehicle_type.png'>
 
 [Download paper here](https://ihsan149.github.io/files/vehicle_type.pdf)
