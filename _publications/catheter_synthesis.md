@@ -12,7 +12,6 @@ Automatic catheter and guidewire segmentation plays an important role in robot-a
 
 ---
 Proposed Framework and Examples
----
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/catheter_synthesis.png'>
 
 [Download paper here](https://ihsan149.github.io/files/catheter_synthesis.pdf)
