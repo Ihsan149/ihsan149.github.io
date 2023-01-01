@@ -12,8 +12,6 @@ Studies are proceeded to stabilize cardiac surgery using thin micro-guidewires a
 
 ---
 Proposed Framework and Examples
-<br/><img src='/images/500x300.png'>"
-
-This is an item in your portfolio. 
+<br/><img src='/images/500x300.png'>
 
 [Download paper here](https://ihsan149.github.io/files/catheter_tracking.pdf)
