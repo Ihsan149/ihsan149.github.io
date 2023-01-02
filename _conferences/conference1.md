@@ -12,6 +12,6 @@ Accurate localization of catheters or guidewires in fluoroscopy images is import
 
 ---
 Proposed Framework and Examples
-<br/><img src='/images/catheter_synthesis.png'>
+<br/><img src='/images/c1.png'>
 
 [Download paper here](https://link.springer.com/chapter/10.1007/978-3-030-32281-6_13)
