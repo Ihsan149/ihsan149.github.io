@@ -1,7 +1,7 @@
 ---
 title: "Synthesize and Segment: Towards Improved Catheter Segmentation via Adversarial Augmentation."
-collection: publications
-permalink: /publication/catheter_synthesis
+collection: conferences
+permalink: /conference/conference1
 excerpt: 'Automatic catheter and guidewire segmentation plays an important role in robot-assisted interventions that are guided by fluoroscopy. Existing learning based methods addressing the task of segmentation or tracking are often limited by the scarcity of annotated samples and difficulty in data collection. In the case of deep learning based methods, the demand for large amounts of labeled data further impedes successful application. We propose a synthesize and segment approach with plug in possibilities for segmentation to address this. We show that an adversarially learned image-to-image translation network can synthesize catheters in X-ray fluoroscopy enabling data augmentation in order to alleviate a low data regime. To make realistic synthesized images, we train the translation network via a perceptual loss coupled with similarity constraints. Then existing segmentation networks are used to learn accurate localization of catheters in a semi-supervised setting with the generated images. The empirical results on collected medical datasets show the value of our approach with significant improvements over existing translation baseline methods.'
 date: 2009-10-01
 venue: 'Applied Sciences'
