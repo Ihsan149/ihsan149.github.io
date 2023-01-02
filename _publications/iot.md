@@ -1,17 +1,17 @@
 ---
 title: "Machine Learning-Enabled Power Scheduling in IoT-Based Smart Cities."
 collection: publications
-permalink: /publication/confocal_microscopy
+permalink: /publication/iot
 excerpt: 'Recent advancements in hardware and communication technologies have enabled worldwide interconnection using the internet of things (IoT). The IoT is the backbone of smart city applications such as smart grids and green energy management. In smart cities, the IoT devices are used for linking power, price, energy, and demand information for smart homes and home energy management (HEM) in the smart grids. In complex smart grid-connected systems, power scheduling and secure dispatch of information are the main research challenge. These challenges can be resolved through various machine learning techniques and data analytics. In this paper, we have proposed a particle swarm optimization based machine learning algorithm known as a collaborative execute-before-after dependency-based requirement, for the smart grid. The proposed collaborative execute-before-after dependency-based requirement algorithm works in two phases, analysis and assessment of the requirements of end-users and power distribution companies. In the first phases, a fixed load is adjusted over a period of 24 h, and in the second phase, a randomly produced population load for 90 days is evaluated using particle swarm optimization. The simulation results demonstrate that the proposed algorithm performed better in terms of percentage cost reduction, peak to average ratio, and power variance mean ratio than particle swarm optimization and inclined block rate.'
 date: 2021-10-02
-venue: 'Diagnostics'
-paperurl: 'https://ihsan149.github.io/files/confocal_microscopy.pdf'
-citation: 'Ihsan Ullah et al. (2021). Machine Learning-Enabled Power Scheduling in IoT-Based Smart Cities; <i>Computers, Materials & Continua </i>. 1(1).'
+venue: 'Computers, Materials & Continua'
+paperurl: 'https://ihsan149.github.io/files/iot.pdf'
+citation: 'Ihsan Ullah et al. (2021). Machine Learning-Enabled Power Scheduling in IoT-Based Smart Cities; <i> Computers, Materials & Continua </i>. 1(1).'
 ---
 Recent advancements in hardware and communication technologies have enabled worldwide interconnection using the internet of things (IoT). The IoT is the backbone of smart city applications such as smart grids and green energy management. In smart cities, the IoT devices are used for linking power, price, energy, and demand information for smart homes and home energy management (HEM) in the smart grids. In complex smart grid-connected systems, power scheduling and secure dispatch of information are the main research challenge. These challenges can be resolved through various machine learning techniques and data analytics. In this paper, we have proposed a particle swarm optimization based machine learning algorithm known as a collaborative execute-before-after dependency-based requirement, for the smart grid. The proposed collaborative execute-before-after dependency-based requirement algorithm works in two phases, analysis and assessment of the requirements of end-users and power distribution companies. In the first phases, a fixed load is adjusted over a period of 24 h, and in the second phase, a randomly produced population load for 90 days is evaluated using particle swarm optimization. The simulation results demonstrate that the proposed algorithm performed better in terms of percentage cost reduction, peak to average ratio, and power variance mean ratio than particle swarm optimization and inclined block rate.
 
----
-Proposed Framework and Examples
-<br/><img src='/images/confocal_microscopy.png'>
+#---
+#Proposed Framework and Examples
+#<br/><img src='/images/confocal_microscopy.png'>
 
-[Download paper here](https://ihsan149.github.io/files/confocal_microscopy.pdf)
+[Download paper here](https://ihsan149.github.io/files/iot.pdf)
