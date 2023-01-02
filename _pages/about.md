@@ -45,8 +45,14 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Conferences
+======
+  <ul>{% for post in site.conferences %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
-Talks
+Seminar and Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
