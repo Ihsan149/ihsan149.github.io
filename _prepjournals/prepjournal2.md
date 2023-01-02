@@ -1,7 +1,7 @@
 ---
 title: "Video Domain Adaptation for Semantic Segmentation using Perceptual Consistency Matching."
 collection: prepjournals
-permalink: /prepjournal/prepjournal1
+permalink: /prepjournal/prepjournal2
 excerpt: 'Domain adaptation (DA) techniques address domain shift and allow deep neural networks to be used for a variety of tasks. Although several image DA methods have been presented, video-based DA has received less attention. This is due to the complexity involved in adapting diverse modalities of video features, such as the long-term dependency of temporally associated pixels. In this work, we propose adversarial domain adaptation for video semantic segmentation by aligning temporally associated pixels in successive source and target frames. More specifically, we identify perceptually similar pixels with the highest correlation across successive frames, and infer that such pixels correspond to the same class. By employing perceptual consistency matching (PCM) for successive frames within the same domain and across domains, the proposed method is able to capture temporal consistency and assist the model in correcting pixel predictions. Extensive experiments on public datasets demonstrate our method can outperform existing state-of-the-art video-based UDA approaches.'
 date: 2022-10-01
 venue: 'Computer Vision and Pattern Recognition (CVPR23)'
