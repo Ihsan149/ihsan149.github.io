@@ -40,6 +40,12 @@ Work experience
   * Duties included: Vehicle Detection and Classification
   * Supervisor: [Prof. Hyo Jong Lee](https://wz3.jbnu.ac.kr/jbnuProfl/cseeng/243/1440/artclView.do)
 
+Articles in Submission/Preparation
+======
+  <ul>{% for post in site.prepjournals %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Publications
 ======
   <ul>{% for post in site.publications %}
