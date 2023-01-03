@@ -15,7 +15,7 @@ Proposed Framework and Examples
 <br/><img src='/images/catheter_synthesis.png'>
 
 | Video Examples  |
-| ------------- | ------------- | 
-| <video src="https://ihsan149.github.io/images/cath21.mp4" controls="controls" style="max-width: 100%;"></video> | <video src="https://ihsan149.github.io/images/catheter_synthesis.mp4" controls="controls" style="max-width: 75%;"></video> | 
+| ------------- | 
+| <video src="https://ihsan149.github.io/images/catheter_synthesis.mp4" controls="controls" style="max-width: 100%;"></video> | 
 
 [Download paper here](https://ihsan149.github.io/files/catheter_synthesis.pdf)
