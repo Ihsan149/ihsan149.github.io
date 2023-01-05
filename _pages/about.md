@@ -108,3 +108,6 @@ Skills
   </tr>
 </tbody>
 </table>
+
+[Download CV here](https://ihsan149.github.io/files/CV.pdf)
+---
