@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here]((https://ihsan149.github.io/files/CV.pdf)
+[Download CV here](https://ihsan149.github.io/files/CV.pdf)
 ---
 
 Research Statement
