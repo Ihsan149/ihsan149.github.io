@@ -73,11 +73,41 @@ Teaching
 
 Skills
 ======
-| Deep Learning | Programming Languages | Misc Skills |
-|:-------------:|:---------------------:|:-----------:|
-| Pytorch       | Python                | Latex       |
-| Tensorflow    | C++                   | Origin Lab  |
-| Keras         | Matlab                | Prism       |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-c3ow">Deep Learning</th>
+    <th class="tg-c3ow">Programming Languages</th>
+    <th class="tg-c3ow">Misc Skills</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Pytorch</td>
+    <td class="tg-0pky">Python</td>
+    <td class="tg-0pky">Latex</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Tensorflow</td>
+    <td class="tg-0pky">C++</td>
+    <td class="tg-0pky">Origin Lab</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Keras</td>
+    <td class="tg-0pky">Matlab</td>
+    <td class="tg-0pky">Prism</td>
+  </tr>
+</tbody>
+</table>
 
 
 
