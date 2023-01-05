@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here]((https://ihsan149.github.io/files/CV.pdf)
+---
+
 Research Statement
 ======
 Most deep learning-based methods require a considerable amount of labeled data, which is difficult to come by in the computer vision and medical field. I am interested in developing a unsupervised domain adaptation methods to learn from synthetic data to mitigate the labeling efforts.
