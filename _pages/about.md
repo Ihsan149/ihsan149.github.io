@@ -73,19 +73,11 @@ Teaching
 
 Skills
 ======
-* Deep Learning
-  * Pytorch
-  * Tensorflow
-  * Keras   
-* Programming Languages 
-  * Python
-  * C++
-  * Matlab
-* Misc Skills
-  * Latex
-  * Origin Lab
-  * Prism
-
+| Deep Learning | Programming Languages | Misc Skills |
+|:-------------:|:---------------------:|:-----------:|
+| Pytorch       | Python                | Latex       |
+| Tensorflow    | C++                   | Origin Lab  |
+| Keras         | Matlab                | Prism       |
 
 
 
