@@ -60,8 +60,13 @@ Conferences
   
 Patents
 ======
-### 1. 카테터 추적 시스템 및 제어 방법 
-  
+1. Catheter Tracking System and Controlling Method
+   Title in Korea: 카테터 추적 시스템 및 제어 방법 
+   Inventors: Ihsan Ullah, DongKyu Won, Sang Hyun Park
+   Patent Number: 10-2174246
+   Application Number: 10-2018-0054790
+   Registration Date: 29/10/2020
+   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
