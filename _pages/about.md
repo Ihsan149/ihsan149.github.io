@@ -58,7 +58,7 @@ Conferences
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-## Patents
+# Patents
 ### 1. List item one 
   
 Teaching
