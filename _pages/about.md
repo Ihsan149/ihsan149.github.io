@@ -58,17 +58,8 @@ Conferences
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Patents
-======
-  <ul>{% for post in site.patents %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Seminar and Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+## Patents
+### 1. List item one 
   
 Teaching
 ======
