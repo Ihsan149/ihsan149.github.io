@@ -1,8 +1,7 @@
 ---
 title: "Project Portfolio"
-| Video Examples  |
-| ------------- | 
-| excerpt: "Short description of portfolio item number 1<br/><video src="https://ihsan149.github.io/images/annotator.mp4" controls="controls" style="height: 400px; width:750px;"></video> | 
+
+excerpt: "Short description of portfolio item number 1<br/><video src="https://ihsan149.github.io/images/annotator.mp4" controls="controls" style="height: 400px; width:750px;"></video>
 collection: portfolio
 ---
 
