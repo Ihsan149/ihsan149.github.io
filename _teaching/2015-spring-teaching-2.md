@@ -8,13 +8,21 @@ date: 2015-01-01
 location: "Daegu, South Korea"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I was a teaching assistant for Professor Sang Hyun Park's Machine Learning class at the Department of Robotics and Mechatronics Engineering, DGIST, which was a graduate-level course lasting 15 weeks. My role as a TA involved grading assignments and exams, leading review sessions, and providing individualized feedback to students. I was also responsible for delivering mini-lectures on specific topics and conducting lab experiments to help students understand complex concepts.
 
-Heading 1
+Cousre Contents
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+Introduction to Machine Learning
+Linear Regression
+Logistic Regression
+Decision Trees
+Random Forests and Boosting
+Support Vector Machines (SVM)
+K-Nearest Neighbors (KNN)
+Naive Bayes
+Neural Networks
+Convolutional Neural Networks (CNN)
+Recurrent Neural Networks (RNN)
+Dimensionality Reduction Techniques (PCA, LDA)
+Clustering (K-Means, Hierarchical Clustering)
+Natural Language Processing (NLP)
