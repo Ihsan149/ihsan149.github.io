@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have a strong educational background in computer science and engineering. I obtained my Bachelor degree in Computer Science from [Abdul Wali Khan University](https://awkum.edu.pk/) in Pakistan and my Master degree with distinction from the Department of [Computer Science and Engineering](https://wz3.jbnu.ac.kr/cseeng/index..do) at [Chonbuk National University](https://www.jbnu.ac.kr/eng/) in South Korea. I have completed my PhD under the supervision of [Prof. Sang Hyun Park](https://sites.google.com/view/mispl/members/professor?authuser=0) in the Department of [Robotics and Mechatronics Engineering](https://robot.dgist.ac.kr/) at [DGIST](https://dgist.ac.kr/en/).
+I have a strong educational background in computer science and engineering. I obtained my Bachelor degree in Computer Science from [Abdul Wali Khan University](https://awkum.edu.pk/) in Pakistan and my Master degree with distinction from the Department of [Computer Science and Engineering](https://wz3.jbnu.ac.kr/cseeng/index..do) at [Chonbuk National University](https://www.jbnu.ac.kr/eng/) in South Korea. I have completed my PhD under the supervision of [Prof. Sang Hyun Park](https://sites.google.com/view/mispl/members/professor?authuser=0) in the Department of [Robotics and Mechatronics Engineering](https://robot.dgist.ac.kr/) at [DGIST](https://dgist.ac.kr/en/). Currently I am working as Postdoctoral Fellow at [CCG Lab](https://dgist-lab.wixsite.com/ccglab) in the [Division of Intilligent Robotics](https://scholar.dgist.ac.kr/handle/20.500.11750/10135) with [Prof.Hyunki Lee](https://dgist-lab.wixsite.com/ccglab/team).
 
 Research Statement
 ======
@@ -25,6 +25,10 @@ Education
 
 Work experience
 ======
+* 2023-on-going 🠚 Post-Doctoral Researcher:
+  * [Camera Culture Group (CCG Lab)](https://dgist-lab.wixsite.com/ccglab)
+  * Duties included: Domain adaptation for semantic segmentation/ Tracking of Small Object/ Action Recognition (Computer Vision/ Medical Field)
+  * Supervisor: [Prof. Hyunki Lee](https://dgist-lab.wixsite.com/ccglab/team)
 * 2018-2023 🠚 Doctoral Research Student:
   * [Medical Image and Signal Processing Lab (MISPL)](https://sites.google.com/view/mispl/home?authuser=0)
   * Duties included: Domain adaptation for semantic segmentation (Computer Vision/ Medical Field)
