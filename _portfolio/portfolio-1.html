@@ -7,38 +7,28 @@ collection: portfolio
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        .video-container {
-            display: flex;
-            justify-content: space-between;
-        }
-
-        .video {
-            width: 45%; /* Adjust the width as needed */
-        }
-    </style>
 </head>
 <body>
-    <div class="video-container">
-        <div class="video">
-            <iframe
-                src="https://ihsan149.github.io/images/mountain.mp4"
-                width="375" <!-- Adjust the width as needed -->
-                height="200" <!-- Adjust the height as needed -->
-                frameborder="1"
-                allowfullscreen="">
-            </iframe>
-        </div>
-        <div class="video">
-            <!-- Add your second video iframe here -->
-            <iframe
-                src="https://ihsan149.github.io/images/oof.mp4"
-                width="375" <!-- Adjust the width as needed -->
-                height="200" <!-- Adjust the height as needed -->
-                frameborder="1"
-                allowfullscreen="">
-            </iframe>
-        </div>
+    <div class="embed-container">
+        <iframe
+            src="https://ihsan149.github.io/images/mountain.mp4"
+            width="750"
+            height="400"
+            frameborder="0" <!-- Set frameborder to 0 to remove border -->
+            allowfullscreen
+            sandbox="allow-same-origin">
+        </iframe>
+    </div>
+    
+    <div class="embed-container">
+        <iframe
+            src="https://ihsan149.github.io/images/off.mp4"
+            width="750"
+            height="400"
+            frameborder="0" <!-- Set frameborder to 0 to remove border -->
+            allowfullscreen
+            sandbox="allow-same-origin">
+        </iframe>
     </div>
 </body>
 </html>
