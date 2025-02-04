@@ -14,22 +14,21 @@ permalink: /contact/
         <div class="contact-card">
             <div class="contact-icon">📍</div>
             <h3>Location</h3>
-            <p>Yu Lab, DBMI<br>Harvard Medical School<br>Boston, MA 02115</p>
+            <p>Camera Culture Group<br>Daegu Gyeongbuk Institute of Science and Technology (DGIST)<br>Daegu, South Korea</p>
         </div>
 
         <div class="contact-card">
             <div class="contact-icon">📧</div>
             <h3>Email</h3>
-            <p><a href="mailto:philip_chikontwe@hms.harvard.edu">Philip_Chikontweo@hms.harvard.edu</a></p>
+            <p><a href="mailto:ihsankhan@dgist.ac.kr">ihsankhan@dgist.ac.kr</a></p>
         </div>
 
         <div class="contact-card">
             <div class="contact-icon">🔗</div>
             <h3>Social</h3>
             <div class="social-links">
-                <a href="https://scholar.google.com/citations?user=8jHbkMcAAAAJ" target="_blank">Google Scholar</a>
-                <a href="https://kr.linkedin.com/in/philip-chikontwe-52397a7a" target="_blank">LinkedIn</a>
-                <a href="https://github.com/philipchicco" target="_blank">GitHub</a>
+                <a href="https://scholar.google.com/citations?user=eod9uX0AAAAJ&hl=en" target="_blank">Google Scholar</a>
+                <a href="https://www.linkedin.com/in/ihsan-ullah-phd-83b4a1104/" target="_blank">LinkedIn</a>
             </div>
         </div>
     </div>
