@@ -1,37 +1,127 @@
 featured:
   - title: "Video domain adaptation for semantic segmentation using perceptual consistency matching"
-    authors: "Ihsan Ullah"
+    authors: "Ihsan Ullah, Sion An, Myeongkyun Kang, Philip Chikontwe, Hyunki Lee, Jinwoo Choi, Sang Hyun Park"
     venue: "Neural Networks"
     year: 2024
-    pdf: "https://www.journals.elsevier.com/neural-networks"
-  
-  - title: "A Deep Learning Framework for Protecting Personal Computers from Unauthorized Mobile Screen Recordings"
-    authors: "Ihsan Ullah"
-    venue: "ISIITA"
+    pdf: "https://www.sciencedirect.com/science/article/pii/S0893608024004295"
+
+  - title: "Target-specified Reference-based Deep Learning Network for Joint Image Deblurring and Resolution Enhancement in Surgical Zoom lens Camera Calibration"
+    authors: "Ho-Gun Ha, Deokgi Jeung, Ihsan Ullah, Junichi Tokuda, Jaesung Hong, Hyunki Lee"
+    venue: "Computer Methods and Programs in Biomedicine"
     year: 2024
-    pdf: "https://www.springer.com/gp/book/9783030505303"
+    pdf: "https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine"
 
 all:
-  - title: "Drone Detection and Tracking in IR Videos with Transformers"
-    authors: "Ihsan Ullah, co-authors"
-    venue: "IEEE Transactions on Aerospace and Electronic Systems"
-    year: 2023
-    pdf: "https://ieeexplore.ieee.org/document/10010765"
+  - title: "Towards Real-Time Drone Detection and Tracking in Thermal Infrared Videos for Anti-Drone System"
+    authors: "Ihsan Ullah, Hyunki Lee"
+    venue: "Applied Intelligence"
+    year: 2024
+    pdf: "https://www.springer.com/journal/10489"
 
-  - title: "Protecting Personal Computers from Unauthorized Mobile Recordings"
-    authors: "Ihsan Ullah"
-    venue: "Medical Image Analysis"
-    year: 2023
-    pdf: "https://www.sciencedirect.com/science/article/pii/S1361841521002029"
+  - title: "White Matter Multiple Sclerosis Lesion Segmentation under Distributional Shifts"
+    authors: "Haider Ali, Ihsan Ullah, Waris Asim, Shehzad Adeeb, Hyunki Lee"
+    venue: "Multiple Sclerosis Journal"
+    year: 2024
+    pdf: "https://journals.sagepub.com/home/msj"
 
-  - title: "Synthetic Data Generation for Robust Video Segmentation in Medical Imaging"
-    authors: "Ihsan Ullah, co-authors"
-    venue: "MICCAI"
+  - title: "A Deep Learning based Dual Encoder-Decoder Framework for Anatomical Structure Segmentation in Chest Fluoroscopic Images"
+    authors: "Ihsan Ullah, Shah Baber, Farman Ali, Shaker El-Sappagh, Tamer Abuhmed, Sang Hyun Park"
+    venue: "Scientific Reports"
+    year: 2023
+    pdf: "https://www.nature.com/articles/s41598-023-27815-w"
+
+  - title: "Deep learning-based segmentation and classification of leaf images for detection of tomato plant disease"
+    authors: "Muhammad Shoaib, Tariq Hussain, Babar Shah, Ihsan Ullah, Sayyed Mudassar Shah, Farman Ali, Sang Hyun Park"
+    venue: "Frontiers in Plant Science"
     year: 2022
-    pdf: "https://link.springer.com/chapter/10.1007/978-3-030-01720-1_10"
-    
-  - title: "AI-driven Medical Imaging for Early Diagnosis of Neurological Disorders"
-    authors: "Ihsan Ullah, co-authors"
-    venue: "IEEE Transactions on Medical Imaging"
+    pdf: "https://doi.org/10.3389/fpls.2022.1031748"
+
+  - title: "Classification of the Confocal Microscopy Images of Colorectal Tumor and Inflammatory Colitis Mucosa Tissue Using Deep Learning"
+    authors: "Jaehoon Jeong, Seung Taek Hong, Ihsan Ullah, Eun Sun Kim, Sang Hyun Park"
+    venue: "Diagnostics"
+    year: 2022
+    pdf: "https://www.mdpi.com/2075-4418/12/2/288"
+
+  - title: "Synthesize and Segment: Towards Improved Catheter Segmentation via Adversarial Augmentation"
+    authors: "Ihsan Ullah, Philip Chikontwe, Hongsoo Choi, Chang-Hwan Yoon, Sang Hyun Park"
+    venue: "Applied Sciences"
     year: 2021
-    pdf: "https://ieeexplore.ieee.org/document/9504012"
+    pdf: "https://doi.org/10.3390/app11041638"
+
+  - title: "Machine learning-enabled power scheduling in IoT-based smart cities"
+    authors: "Nabeela Awan, Salman Khan, M. Khalid Imam Rahmani, Muhammad Tahir, Nur Alam, Ryan Alturki, Ihsan Ullah"
+    venue: "Comput. Mater. Contin"
+    year: 2021
+    pdf: "https://www.techscience.com/cmc/v67n2/41360"
+
+  - title: "2018 robotic scene segmentation challenge"
+    authors: "Max Allan, Satoshi Kondo, Ihsan Ullah, Sebastian Bodenstedt, Stefan Leger, Rahim Kadkhodamohammadi, Imanol Luengo, Felix Fuentes, Evangello Flouty, Ahmed Mohammed, Marius Pedersen, and others"
+    venue: "arXiv preprint"
+    year: 2020
+    pdf: "https://arxiv.org/abs/2001.11190v3"
+
+  - title: "Real-Time Tracking of Guidewire Robot Tips Using Deep Convolutional Neural Networks on Successive Localized Frames"
+    authors: "Ihsan Ullah, Philip Chikontwe, Sang Hyun Park"
+    venue: "IEEE Access"
+    year: 2019
+    pdf: "https://doi.org/10.1109/ACCESS.2019.2950263"
+
+  - title: "Real-time vehicle make and model recognition with the residual SqueezeNet architecture"
+    authors: "Hyo Jong Lee, Ihsan Ullah, Weiguo Wan, Yongbin Gao, Zhijun Fang"
+    venue: "Sensors"
+    year: 2019
+    pdf: "https://doi.org/10.3390/s19050982"
+
+  - title: "Catheter synthesis in X-Ray fluoroscopy with generative adversarial networks"
+    authors: "Ihsan Ullah, Philip Chikontwe, Sang Hyun Park"
+    venue: "MICCAI PRIME Workshop"
+    year: 2019
+    pdf: "https://link.springer.com/chapter/10.1007/978-3-030-32281-6_13"
+
+  - title: "Guidewire Tip Tracking using U-Net with Shape and Motion Constraints"
+    authors: "Ihsan Ullah, Philip Chikontwe, Sang Hyun Park"
+    venue: "International Conference on Artificial Intelligence in Information and Communication (ICAIIC)"
+    year: 2019
+    pdf: "https://doi.org/10.1109/ICAIIC.2019.8669088"
+
+  - title: "Recurrent Attention Models for Tissue Histopathology Image Classification"
+    authors: "Philip Chikontwe, Ihsan Ullah, Janghyeon Kim, DongKyu Won, Sang Hyun Park"
+    venue: "31th Workshop on Image Processing and Image Understanding (IPIU)"
+    year: 2019
+    pdf: "http://ipiu.or.kr/2019/oral.html"
+
+  - title: "Deep Learning-Based Apple Defect Detection with Residual SqueezeNet"
+    authors: "MD Nur Alam, Ihsan Ullah, Ahmed Abdulhakim Al-Absi"
+    venue: "International Conference on Smart Computing and Cyber Security"
+    year: 2018
+    pdf: "https://link.springer.com/chapter/10.1007/978-981-15-7990-5_12"
+
+  - title: "Moving vehicle detection and information extraction based on deep neural network"
+    authors: "Ihsan Ullah, Hyo Jong Lee"
+    venue: "International Conference on Image Processing, Computer Vision, and Pattern Recognition (IPCV)"
+    year: 2017
+    pdf: "https://csce.ucmss.com/books/LFS/CSREA2017/IPC6015.pdf"
+
+  - title: "An approach of locating Korean vehicle license plate based on mathematical morphology and geometrical features"
+    authors: "Ihsan Ullah, Hyo Jong Lee"
+    venue: "International Conference on Computational Science and Computational Intelligence (CSCI)"
+    year: 2016
+    pdf: "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7881455"
+
+  - title: "License Plate Detection Based on Rectangular Features and Multilevel Thresholding"
+    authors: "Ihsan Ullah, Hyo Jong Lee"
+    venue: "International Conference on Image Processing, Computer Vision, and Pattern Recognition (IPCV)"
+    year: 2016
+    pdf: "http://worldcomp-proceedings.com/proc/p2016/IPC4045.pdf"
+
+  - title: "An Effective Algorithm for Shadow Removal from Moving Vehicles"
+    authors: "Ihsan Ullah, Hyo Jong Lee"
+    venue: "International Symposium on Information Technology Convergence (ISITC)"
+    year: 2016
+    pdf: "https://www.researchgate.net/publication/317184010_An_Effective_Algorithm_for_Shadow_Removal_from_Moving_Vehicles_Based_on_Morphology"
+
+  - title: "Moving Object Detection Based on Background Subtraction"
+    authors: "Ihsan Ullah, Hyo Jong Lee"
+    venue: "Conference of KIISE"
+    year: 2016
+    pdf: "https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE07017673"
