@@ -7,5 +7,5 @@ categories: news
 
 <div class="news-content reveal">
     <h2 class="gradient-text">{{ page.title }}</h2>
-    <!-- <p>Joined Yu Lab at Harvard Medical School. Exciting!</p> -->
+    <!-- <p>Joined CCG at DGIST. Exciting!</p> -->
 </div>
