@@ -5,7 +5,7 @@ featured:
     year: 2024
     pdf: "https://www.sciencedirect.com/science/article/pii/S0893608024004295"
 
- - title: "Real-Time Tracking of Guidewire Robot Tips Using Deep Convolutional Neural Networks on Successive Localized Frames"
+  - title: "Real-Time Tracking of Guidewire Robot Tips Using Deep Convolutional Neural Networks on Successive Localized Frames"
     authors: "Ihsan Ullah, Philip Chikontwe, Sang Hyun Park"
     venue: "IEEE Access"
     year: 2019
@@ -24,13 +24,6 @@ featured:
     pdf: "https://www.nature.com/articles/s41598-023-27815-w"
 
 all:
-
-  - title: "Target-specified Reference-based Deep Learning Network for Joint Image Deblurring and Resolution Enhancement in Surgical Zoom lens Camera Calibration"
-    authors: "Ho-Gun Ha, Deokgi Jeung, Ihsan Ullah, Junichi Tokuda, Jaesung Hong, Hyunki Lee"
-    venue: "Computer Methods and Programs in Biomedicine"
-    year: 2024
-    pdf: "https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine"
-
   - title: "Towards Real-Time Drone Detection and Tracking in Thermal Infrared Videos for Anti-Drone System"
     authors: "Ihsan Ullah, Hyunki Lee"
     venue: "Applied Intelligence"
@@ -42,6 +35,12 @@ all:
     venue: "Multiple Sclerosis Journal"
     year: 2024
     pdf: "https://journals.sagepub.com/home/msj"
+
+  - title: "Target-specified Reference-based Deep Learning Network for Joint Image Deblurring and Resolution Enhancement in Surgical Zoom lens Camera Calibration"
+    authors: "Ho-Gun Ha, Deokgi Jeung, Ihsan Ullah, Junichi Tokuda, Jaesung Hong, Hyunki Lee"
+    venue: "Computer Methods and Programs in Biomedicine"
+    year: 2024
+    pdf: "https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine"
 
   - title: "Deep learning-based segmentation and classification of leaf images for detection of tomato plant disease"
     authors: "Muhammad Shoaib, Tariq Hussain, Babar Shah, Ihsan Ullah, Sayyed Mudassar Shah, Farman Ali, Sang Hyun Park"
