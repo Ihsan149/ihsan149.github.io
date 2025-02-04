@@ -5,25 +5,32 @@ featured:
     year: 2024
     pdf: "https://www.sciencedirect.com/science/article/pii/S0893608024004295"
 
-    - title: "Synthesize and Segment: Towards Improved Catheter Segmentation via Adversarial Augmentation"
-    authors: "Ihsan Ullah, Philip Chikontwe, Hongsoo Choi, Chang-Hwan Yoon, Sang Hyun Park"
-    venue: "Applied Sciences"
-    year: 2021
-    pdf: "https://doi.org/10.3390/app11041638"
-
-  - title: "Real-Time Tracking of Guidewire Robot Tips Using Deep Convolutional Neural Networks on Successive Localized Frames"
+ - title: "Real-Time Tracking of Guidewire Robot Tips Using Deep Convolutional Neural Networks on Successive Localized Frames"
     authors: "Ihsan Ullah, Philip Chikontwe, Sang Hyun Park"
     venue: "IEEE Access"
     year: 2019
     pdf: "https://doi.org/10.1109/ACCESS.2019.2950263"
 
-    - title: "A Deep Learning based Dual Encoder-Decoder Framework for Anatomical Structure Segmentation in Chest Fluoroscopic Images"
+  - title: "Synthesize and Segment: Towards Improved Catheter Segmentation via Adversarial Augmentation"
+    authors: "Ihsan Ullah, Philip Chikontwe, Hongsoo Choi, Chang-Hwan Yoon, Sang Hyun Park"
+    venue: "Applied Sciences"
+    year: 2021
+    pdf: "https://doi.org/10.3390/app11041638"
+
+  - title: "A Deep Learning based Dual Encoder-Decoder Framework for Anatomical Structure Segmentation in Chest Fluoroscopic Images"
     authors: "Ihsan Ullah, Shah Baber, Farman Ali, Shaker El-Sappagh, Tamer Abuhmed, Sang Hyun Park"
     venue: "Scientific Reports"
     year: 2023
     pdf: "https://www.nature.com/articles/s41598-023-27815-w"
 
 all:
+
+  - title: "Target-specified Reference-based Deep Learning Network for Joint Image Deblurring and Resolution Enhancement in Surgical Zoom lens Camera Calibration"
+    authors: "Ho-Gun Ha, Deokgi Jeung, Ihsan Ullah, Junichi Tokuda, Jaesung Hong, Hyunki Lee"
+    venue: "Computer Methods and Programs in Biomedicine"
+    year: 2024
+    pdf: "https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine"
+
   - title: "Towards Real-Time Drone Detection and Tracking in Thermal Infrared Videos for Anti-Drone System"
     authors: "Ihsan Ullah, Hyunki Lee"
     venue: "Applied Intelligence"
@@ -35,12 +42,6 @@ all:
     venue: "Multiple Sclerosis Journal"
     year: 2024
     pdf: "https://journals.sagepub.com/home/msj"
-
-  - title: "A Deep Learning based Dual Encoder-Decoder Framework for Anatomical Structure Segmentation in Chest Fluoroscopic Images"
-    authors: "Ihsan Ullah, Shah Baber, Farman Ali, Shaker El-Sappagh, Tamer Abuhmed, Sang Hyun Park"
-    venue: "Scientific Reports"
-    year: 2023
-    pdf: "https://www.nature.com/articles/s41598-023-27815-w"
 
   - title: "Deep learning-based segmentation and classification of leaf images for detection of tomato plant disease"
     authors: "Muhammad Shoaib, Tariq Hussain, Babar Shah, Ihsan Ullah, Sayyed Mudassar Shah, Farman Ali, Sang Hyun Park"
@@ -54,12 +55,6 @@ all:
     year: 2022
     pdf: "https://www.mdpi.com/2075-4418/12/2/288"
 
-  - title: "Synthesize and Segment: Towards Improved Catheter Segmentation via Adversarial Augmentation"
-    authors: "Ihsan Ullah, Philip Chikontwe, Hongsoo Choi, Chang-Hwan Yoon, Sang Hyun Park"
-    venue: "Applied Sciences"
-    year: 2021
-    pdf: "https://doi.org/10.3390/app11041638"
-
   - title: "Machine learning-enabled power scheduling in IoT-based smart cities"
     authors: "Nabeela Awan, Salman Khan, M. Khalid Imam Rahmani, Muhammad Tahir, Nur Alam, Ryan Alturki, Ihsan Ullah"
     venue: "Comput. Mater. Contin"
@@ -71,12 +66,6 @@ all:
     venue: "arXiv preprint"
     year: 2020
     pdf: "https://arxiv.org/abs/2001.11190v3"
-
-  - title: "Real-Time Tracking of Guidewire Robot Tips Using Deep Convolutional Neural Networks on Successive Localized Frames"
-    authors: "Ihsan Ullah, Philip Chikontwe, Sang Hyun Park"
-    venue: "IEEE Access"
-    year: 2019
-    pdf: "https://doi.org/10.1109/ACCESS.2019.2950263"
 
   - title: "Real-time vehicle make and model recognition with the residual SqueezeNet architecture"
     authors: "Hyo Jong Lee, Ihsan Ullah, Weiguo Wan, Yongbin Gao, Zhijun Fang"
