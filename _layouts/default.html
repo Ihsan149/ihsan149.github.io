@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: 'en-US' }}" data-theme="light">
+<html lang="en-US" data-theme="light">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/custom.css">
     {% seo %}
 
     {% if site.google_analytics %}
@@ -15,7 +15,6 @@
   <div class="progress-bar" id="scrollProgress"></div>
 
   <script>
-      // Scroll Progress Bar
       window.onscroll = function() {
           let winScroll = document.body.scrollTop || document.documentElement.scrollTop;
           let height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
@@ -26,13 +25,13 @@
 
     <div class="container">
         <header class="site-header">
-          <div class="header-background"></div> <!-- New background div -->
+          <div class="header-background"></div>
           <div class="profile-section">
               {% if site.logo %}
               <img src="{{ site.logo | relative_url }}" alt="Profile" class="profile-image">
               {% endif %}
-              <h1 class="site-title">{{ site.title }}</h1>
-              <h4 class="site-description">{{ site.description }}</h4>
+              <h1 class="site-title">Ihsan Ullah</h1>
+              <h4 class="site-description">Researcher in Applied AI & Computer Vision</h4>
           </div>
           
           <nav class="site-nav">
@@ -51,31 +50,12 @@
 
         <footer class="site-footer">
           <div class="footer-content">
-              <p>© 2024 Philip Chikontwe. Built with Jekyll.</p>
+              <p>&copy; 2024 Ihsan Ullah. Built with Jekyll.</p>
           </div>
         </footer>
     </div>
 
     <script>
-
-        <!-- const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
-        
-        function switchTheme(e) {
-            if (e.target.checked) {
-                document.documentElement.setAttribute('data-theme', 'dark');
-                localStorage.setItem('theme', 'dark');
-            } else {
-                document.documentElement.setAttribute('data-theme', 'light');
-                localStorage.setItem('theme', 'light');
-            }    
-        }
-
-        toggleSwitch.addEventListener('change', switchTheme, false);
-
-        const currentTheme = localStorage.getItem('theme') || 'light';
-        document.documentElement.setAttribute('data-theme', currentTheme);
-        toggleSwitch.checked = currentTheme === 'dark'; -->
-    
       function reveal() {
           var reveals = document.querySelectorAll(".reveal");
           
@@ -91,9 +71,8 @@
       }
       
       window.addEventListener("scroll", reveal);
-      reveal(); // Initial check
+      reveal();
       
-      // Theme toggle with animation
       const toggleTheme = () => {
           const html = document.documentElement;
           const currentTheme = html.getAttribute('data-theme');
@@ -109,25 +88,7 @@
       };
       
       document.querySelector('.theme-switch').addEventListener('click', toggleTheme);
-
-      // parallax effect
-      <!-- document.addEventListener('mousemove', (e) => {
-        const header = document.querySelector('.site-header');
-        const headerRect = header.getBoundingClientRect();
-        const mouseX = e.clientX - headerRect.left;
-        const mouseY = e.clientY - headerRect.top;
-        
-        const xPercent = (mouseX / headerRect.width - 0.5) * 20;
-        const yPercent = (mouseY / headerRect.height - 0.5) * 20;
-        
-        header.style.transform = `perspective(1000px) rotateX(${yPercent}deg) rotateY(${xPercent}deg)`;
-      });
-
-      document.querySelector('.site-header').addEventListener('mouseleave', () => {
-        document.querySelector('.site-header').style.transform = 'none';
-      }); -->
-
-      </script>
-
+      
+    </script>
 </body>
 </html>
