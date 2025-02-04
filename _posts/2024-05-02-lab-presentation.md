@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Joined HMS Yu Lab"
-date: 2024-05-02
+title: "Joined Camera Culture Group"
+date: 2023-04-02
 categories: news
 ---
 
