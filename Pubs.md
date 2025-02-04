@@ -8,35 +8,70 @@
 ---------------------------------------------------------
 ## Journals
 ----------------
-1. Kang, Myeongkyun, **Philip Chikontwe**, Donkyu Won, Miguel Luna, and Sang Hyun Park. *Structure-preserving image translation for multi-source medical image domain adaptation.* Pattern Recognition (2023).
-2. An, Sion, Soopil Kim, **Philip Chikontwe**, and Sang Hyun Park. *Dual Attention Relation Network With Fine-Tuning for Few-Shot EEG Motor Imagery Classification.* IEEE Transactions on Neural Networks and Learning Systems (2023).
-3. Soopil Kim, **Philip Chikontwe**, Sion An and Sang Hyun Park. *Uncertainty-aware semi-supervised few shot segmentation*. Pattern Recognition (2023).
-4. **Philip Chikontwe**, Hyun Jung Sung, Jaehoon Jong, Meejeong Kim, Heoungjeong Go, Soo Jeong Nam, and Sang Hyun Park. *Weakly Supervised Segmentation on Neural Compressed Histopathology with
-Self-Equivariant Regularization.* Medical Image Analysis (2022).
-5. **Philip Chikontwe**, Yongbin Gao, and Hyo Jong Lee. *Transformation guided representation GAN for poseinvariant face recognition.* Multidimensional Systems and Signal Processing (2021): 
-6. Kang, Myeongkyun, Kyung Soo Hong, **Philip Chikontwe**, Miguel Luna, Jong Geol Jang, Jongsoo Park, Kyeong-Cheol Shin, Sang Hyun Park, and June Hong Ahn. *Quantitative assessment of chest CT patterns in COVID-19 and bacterial pneumonia patients: a deep learning perspective.* Journal of Korean medical science (2021).
-7. **Philip Chikontwe**, Miguel Luna, Myeongkyun Kang, Kyung Soo Hong, June Hong Ahn, and Sang Hyun Park. *Dual Attention Multiple Instance Learning with Unsupervised Complementary Loss for COVID-19
-Screening.* Medical Image Analysis (2021).
-8. **Philip Chikontwe**, Ullah, Ihsan, Hongsoo Choi, Chang-Hwan Yoon, and Sang Hyun Park. *Synthesize and Segment: Towards Improved Catheter Segmentation via Adversarial Augmentation.* Applied Sciences (2021).
-9. Jung, Euijin, **Philip Chikontwe**, Xiaopeng Zong, Weili Lin, Dinggang Shen, and Sang Hyun Park. *Enhancement of perivascular spaces using densely connected deep convolutional neural network.* IEEE
-Access 7 (2019).
-10. **Philip Chikontwe**, and Hyo Jong Lee. *Deep multi-task network for learning person identity and attributes.* IEEE Access 6 (2018).
+1. **Ullah, Ihsan**, Sion An, Myeongkyun Kang, Philip Chikontwe, Hyunki Lee, Jinwoo Choi, Sang Hyun Park 
+   _Video domain adaptation for semantic segmentation using perceptual consistency matching_  
+   *Neural Networks*, **2024**, Pages: 106505  
+   [DOI: 10.1016/j.neunet.2024.106505](https://doi.org/10.1016/j.neunet.2024.106505)  
+   [Link](https://www.sciencedirect.com/science/article/pii/S0893608024004295)
 
+2. Ha, Ho-Gun, Jeung, Deokgi, **Ullah, Ihsan**, Tokuda, Junichi, Hong, Jaesung, Lee, Hyunki  
+   _Target-specified Reference-based Deep Learning Network for Joint Image Deblurring and Resolution Enhancement in Surgical Zoom lens Camera Calibration_  
+   *Computer Methods and Programs in Biomedicine*, **2024**  
+   Publisher: Elsevier
 
+3. **Ullah, Ihsan**, Shah Baber, Ali, Farman, EI-Sappagh, Shaker, Abuhmed, Tamer, Park, Sang Hyun 
+   _A Deep Learning based Dual Encoder-Decoder Framework for Anatomical Structure Segmentation in Chest Fluoroscopic Images_  
+   *Scientific Reports*, Volume 13, Number 1, Pages: 791, **2023**  
+   [DOI: 10.1038/s41598-023-27815-w](https://doi.org/10.1038/s41598-023-27815-w)  
+   [Link](https://www.nature.com/articles/s41598-023-27815-w#citeas)
+
+4. Shoaib, Muhammad, Hussain, Tariq, Shah, Babar, **Ullah, Ihsan**, Shah, Sayyed Mudassar, Ali, Farman, Park, Sang Hyun
+   _Deep learning-based segmentation and classification of leaf images for detection of tomato plant disease_  
+   *Frontiers in Plant Science*, **2022**, Volume 13, Pages: 1031748  
+   [DOI: 10.3389/fpls.2022.1031748](https://doi.org/10.3389/fpls.2022.1031748)
+
+5. Jeong, Jaehoon, Hong, Seung Taek, **Ullah, Ihsan**, Kim, Eun Sun, Park, Sang Hyun
+   _Classification of the Confocal Microscopy Images of Colorectal Tumor and Inflammatory Colitis Mucosa Tissue Using Deep Learning_  
+   *Diagnostics*, Volume 12, Number 2, Pages: 288, **2022**  
+   [DOI: 10.3390/diagnostics12020288](https://doi.org/10.3390/diagnostics12020288)
+
+6. **Ullah, Ihsan**, Chikontwe, Philip, Choi, Hongsoo, Yoon, Chang-Hwan, Park, Sang Hyun**  
+   _Synthesize and Segment: Towards Improved Catheter Segmentation via Adversarial Augmentation_  
+   *Applied Sciences*, Volume 11, Number 4, Pages: 1638, **2021**  
+   [DOI: 10.3390/app11041638](https://doi.org/10.3390/app11041638)
+
+7. **Ullah, Ihsan**, Chikontwe, Philip, Park, Sang Hyun 
+   _Real-Time Tracking of Guidewire Robot Tips Using Deep Convolutional Neural Networks on Successive Localized Frames_  
+   *IEEE Access*, Volume 7, Pages: 159743-159753, **2019**  
+   [DOI: 10.1109/ACCESS.2019.2950263](https://doi.org/10.1109/ACCESS.2019.2950263)
+
+8. Lee, Hyo Jong, **Ullah, Ihsan**, Wan, Weiguo, Gao, Yongbin, Fang, Zhijun  
+   _Real-time vehicle make and model recognition with the residual SqueezeNet architecture_  
+   *Sensors*, Volume 19, Number 5, Pages: 982, **2019**  
+   [DOI: 10.3390/s19050982](https://doi.org/10.3390/s19050982)
+
+9. Awan, Nabeela, Khan, Salman, Rahmani, M Khalid Imam, Tahir, Muhammad, Alam, Nur, Alturki, Ryan, **Ullah, Ihsan**  
+   _Machine learning-enabled power scheduling in IoT-based smart cities_  
+   *Comput. Mater. Contin*, Volume 67, Number 2, Pages: 2449-2462, **2021**
 ----------------
 ## Conferences
 ----------------
-1. **Philip Chikontwe**, Meejeong Kim, Soo Jeong Nam, Heounjeong Go, Hyun Jung Sung and Sang Hyun Park. *Feature Re-calibration based Multiple Instance Learning for Whole Slide Image Classification*.
-International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI). 2022.
-2. **Philip Chikontwe**, Soopil Kim, and Sang Hyun Park. *CAD: Co-Adapting Discriminative Features for Improved Few-Shot Classification*. Conference on Computer Vision and Pattern Recognition
-(CVPR). 2022.
-3. Siwoo Nam, Myeongkyun Knag, Dongkyu Won, **Philip Chikontwe**, Byeong-Joo Noh, Heounjeong Go, Sang Hyun Park. *Weakly-Supervised TILs Segmentation Based on Point Annotations Using Transfer Learning with Point Detector and Projected-Boundary Regressor*. In International MICCAI Workshop on PRedictive Intelligence In Medicine, 2022.
-4. Won, Dongkyu, Euijin Jung, Sion An, **Philip Chikontwe**, and Sang Hyun Park. *Low-Dose CT Denoising Using Pseudo-CT Image Pairs.* In International MICCAI Workshop on PRedictive Intelligence In Medicine, 2021.
-5. Kang, Myeongkyun, **Philip Chikontwe**, Miguel Luna, Kyung Soo Hong, June Hong Ahn, and Sang Hyun Park. *Mixing-AdaSIN: Constructing a de-biased dataset using Adaptive Structural Instance Normalization and texture Mixing.* In International MICCAI Workshop on PRedictive Intelligence In Medicine, 2021.
-6. Kim, Soopil, Sion An, **Philip Chikontwe**, and Sang Hyun Park. *Bidirectional RNN-based Few Shot Learning for 3D Medical Image Segmentation.* In Conference on Artificial
-Intelligence (AAAI), 2021.
-7. **Philip Chikontwe**, Meejeong Kim, Soo Jeong Nam, Heounjeong Go, and Sang Hyun Park. *Multiple instance learning with center embeddings for histopathology classification.* In International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2020.
-8. An, Sion, Soopil Kim, **Philip Chikontwe**, and Sang Hyun Park. *Few-shot relation learning with attention for EEG-based motor imagery classification.* International Conference on Intelligent
-Robots and Systems (IROS), 2020.
-9. Kim, Soopil, Miguel Luna, **Philip Chikontwe**, and Sang Hyun Park. *Two-step U-Nets for brain tumor segmentation and random forest with radiomics for survival time prediction.* In International MICCAI Brainlesion Workshop, 2019.
-10. Ullah, Ihsan, **Philip Chikontwe**, and Sang Hyun Park. *Catheter synthesis in X-Ray fluoroscopy with generative adversarial networks.* In International MICCAI Workshop on PRedictive Intelligence In MEdicine, 2019.
+1. **Ullah, Ihsan** , Chikontwe, Philip, Park, Sang Hyun 
+   _Guidewire Tip Tracking using U-Net with Shape and Motion Constraints_  
+   *2019 International Conference on Artificial Intelligence in Information and Communication (ICAIIC)*, Pages: 215-217, **2019**  
+   [DOI: 10.1109/ICAIIC.2019.8669088](https://doi.org/10.1109/ICAIIC.2019.8669088)
+
+2. Chikontwe, Philip, **Ullah, Ihsan** , Kim, Janghyeon, Won, DongKyu, Park, Sang Hyun 
+   _Recurrent Attention Models for Tissue Histopathology Image Classification_  
+   *31st Workshop on Image Processing and Image Understanding (IPIU)*, **2019**  
+   [Link](http://ipiu.or.kr/2019/oral.html)
+
+3. Alam, MD Nur, **Ullah, Ihsan**, Al-Absi, Ahmed Abdulhakim 
+   _Deep Learning-Based Apple Defect Detection with Residual SqueezeNet_  
+   *International Conference on Smart Computing and Cyber Security: Strategic Foresight, Security Challenges and Innovation*, Pages: 127-134, **2018**  
+   [Link](https://link.springer.com/chapter/10.1007/978-981-15-7990-5_12)
+
+4. **Ullah, Ihsan**, Chikontwe, Philip, Park, Sang Hyun 
+   _Catheter synthesis in X-Ray fluoroscopy with generative adversarial networks_  
+   *MICCAI PRIME Workshop*, Pages: 125-133, **2019**  
+   [Link](https://link.springer.com/chapter/10.1007/978-3-030-32281-6_13)
