@@ -1,11 +1,11 @@
 # Site Settings
-title: Philip Chikontwe
-description: Research Fellow @ Yu Lab | Harvard Medical School, Harvard University
+title: Ihsan Ullah
+description: Research Fellow @ CCG | DGIST
 logo: /assets/img/headshot.png
 baseurl: ""
-url: "https://philipchicco.github.io"
+url: "https://ihsan149.github.io"
 lang: en-US
-timezone: America/New_York
+timezone: Asia/Seoul
 
 # Google Analytics
 # Optional
@@ -25,16 +25,16 @@ plugins:
   - jekyll-feed
 
 # SEO Settings
-author: Philip Chikontwe
+author: Ihsan Ullah
 twitter:
-  username: philip_chicco
+  username: ihsan_ullah
   card: summary_large_image
 social:
-  name: Philip Chikontwe
+  name: Ihsan Ullah
   links:
-    - https://scholar.google.com/citations?user=8jHbkMcAAAAJ
-    - https://kr.linkedin.com/in/philip-chikontwe-52397a7a
-    - https://github.com/philipchicco
+    - https://scholar.google.com/citations?user=eod9uX0AAAAJ&hl=en
+    - https://www.linkedin.com/in/ihsan-ullah-phd-83b4a1104/
+    - https://github.com/ihsan149
 
 # Collections
 collections:
