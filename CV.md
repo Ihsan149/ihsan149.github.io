@@ -3,10 +3,10 @@
 ## [Publications](Pubs.md) | [Research](research.md)
 ---------------------------------------------------------
 
-> *Email*    : [philipchicco@dgist.ac.kr](philipchicco@dgist.ac.kr)
+> *Email*    : [ihsankhan@dgist.ac.kr](mailto:ihsankhan@dgist.ac.kr)  
 
-> *Linkedin* : [philipchicco](https://kr.linkedin.com/in/philip-chikontwe-52397a7a)
+> *LinkedIn* : [Ihsan Ullah](https://www.linkedin.com/in/ihsan-ullah-phd-83b4a1104/)  
 
-> *Scholar*  : [google-citations](https://scholar.google.com/citations?user=8jHbkMcAAAAJ&hl=en)
+> *Scholar*  : [Google Scholar](https://scholar.google.com/citations?user=eod9uX0AAAAJ&hl=en)  
 
-**Feel free to reach out!**
+**Feel free to reach out!**  
