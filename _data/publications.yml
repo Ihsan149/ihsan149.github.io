@@ -1,237 +1,37 @@
-publications:
-  - type: article
-    title: "Video domain adaptation for semantic segmentation using perceptual consistency matching"
-    authors:
-      - Ihsan Ullah
-      - Sion An
-      - Myeongkyun Kang
-      - Philip Chikontwe
-      - Hyunki Lee
-      - Jinwoo Choi
-      - Sang Hyun Park
-    journal: Neural Networks
+featured:
+  - title: "Video domain adaptation for semantic segmentation using perceptual consistency matching"
+    authors: "Ihsan Ullah"
+    venue: "Neural Networks"
     year: 2024
-    volume: 106505
-    url: https://www.sciencedirect.com/science/article/pii/S0893608024004295
-    doi: https://doi.org/10.1016/j.neunet.2024.106505
-
-  - type: incollection
-    title: "Towards Real-Time Drone Detection and Tracking in Thermal Infrared Videos for Anti-Drone System"
-    authors:
-      - Ihsan Ullah
-      - Hyunki Lee
-    booktitle: Applied Intelligence
-    year: In Preparation
-    publisher: Springer
-
-  - type: incollection
-    title: "White Matter Multiple Sclerosis Lesion Segmentation under Distributional Shifts"
-    authors:
-      - Haider Ali
-      - Ihsan Ullah
-      - Waris Asim
-      - Shehzad Adeeb
-      - Hyunki Lee
-    booktitle: Multiple Sclerosis Journal
-    year: In Preparation
-    publisher: Sage
-
-  - type: article
-    title: "Target-specified Reference-based Deep Learning Network for Joint Image Deblurring and Resolution Enhancement in Surgical Zoom lens Camera Calibration"
-    authors:
-      - Ho-Gun Ha
-      - Deokgi Jeung
-      - Ihsan Ullah
-      - Junichi Tokuda
-      - Jaesung Hong
-      - Hyunki Lee
-    journal: Computer Methods and Programs in Biomedicine
+    pdf: "https://www.journals.elsevier.com/neural-networks"
+  
+  - title: "A Deep Learning Framework for Protecting Personal Computers from Unauthorized Mobile Screen Recordings"
+    authors: "Ihsan Ullah"
+    venue: "ISIITA"
     year: 2024
-    publisher: Elsevier
+    pdf: "https://www.springer.com/gp/book/9783030505303"
 
-  - type: article
-    title: "A Deep Learning based Dual Encoder-Decoder Framework for Anatomical Structure Segmentation in Chest Fluoroscopic Images"
-    authors:
-      - Ihsan Ullah
-      - Shah Baber
-      - Farman Ali
-      - Shaker EI-Sappagh
-      - Tamer Abuhmed
-      - Sang Hyun Park
-    journal: Scientific Reports
+all:
+  - title: "Drone Detection and Tracking in IR Videos with Transformers"
+    authors: "Ihsan Ullah, co-authors"
+    venue: "IEEE Transactions on Aerospace and Electronic Systems"
     year: 2023
-    volume: 13
-    number: 1
-    pages: 791
-    doi: https://doi.org/10.1038/s41598-023-27815-w
+    pdf: "https://ieeexplore.ieee.org/document/10010765"
 
-  - type: article
-    title: "Deep learning-based segmentation and classification of leaf images for detection of tomato plant disease"
-    authors:
-      - Muhammad Shoaib
-      - Tariq Hussain
-      - Babar Shah
-      - Ihsan Ullah
-      - Sayyed Mudassar Shah
-      - Farman Ali
-      - Sang Hyun Park
-    journal: Frontiers in Plant Science
+  - title: "Protecting Personal Computers from Unauthorized Mobile Recordings"
+    authors: "Ihsan Ullah"
+    venue: "Medical Image Analysis"
+    year: 2023
+    pdf: "https://www.sciencedirect.com/science/article/pii/S1361841521002029"
+
+  - title: "Synthetic Data Generation for Robust Video Segmentation in Medical Imaging"
+    authors: "Ihsan Ullah, co-authors"
+    venue: "MICCAI"
     year: 2022
-    volume: 13
-    pages: 1031748
-    doi: https://doi.org/10.3389/fpls.2022.1031748
-
-  - type: article
-    title: "Classification of the Confocal Microscopy Images of Colorectal Tumor and Inflammatory Colitis Mucosa Tissue Using Deep Learning"
-    authors:
-      - Jaehoon Jeong
-      - Seung Taek Hong
-      - Ihsan Ullah
-      - Eun Sun Kim
-      - Sang Hyun Park
-    journal: Diagnostics
-    year: 2022
-    volume: 12
-    number: 2
-    pages: 288
-    doi: https://doi.org/10.3390/diagnostics12020288
-
-  - type: article
-    title: "Synthesize and Segment: Towards Improved Catheter Segmentation via Adversarial Augmentation"
-    authors:
-      - Ihsan Ullah
-      - Philip Chikontwe
-      - Hongsoo Choi
-      - Chang-Hwan Yoon
-      - Sang Hyun Park
-    journal: Applied Sciences
+    pdf: "https://link.springer.com/chapter/10.1007/978-3-030-01720-1_10"
+    
+  - title: "AI-driven Medical Imaging for Early Diagnosis of Neurological Disorders"
+    authors: "Ihsan Ullah, co-authors"
+    venue: "IEEE Transactions on Medical Imaging"
     year: 2021
-    volume: 11
-    number: 4
-    pages: 1638
-    doi: https://doi.org/10.3390/app11041638
-
-  - type: article
-    title: "Real-Time Tracking of Guidewire Robot Tips Using Deep Convolutional Neural Networks on Successive Localized Frames"
-    authors:
-      - Ihsan Ullah
-      - Philip Chikontwe
-      - Sang Hyun Park
-    journal: IEEE Access
-    year: 2019
-    volume: 7
-    pages: 159743-159753
-    doi: https://doi.org/10.1109/ACCESS.2019.2950263
-
-  - type: inproceedings
-    title: "2018 Robotic Scene Segmentation Challenge"
-    authors:
-      - Max Allan
-      - Satoshi Kondo
-      - Ihsan Ullah
-      - Sebastian Bodenstedt
-      - Stefan Leger
-      - Rahim Kadkhodamohammadi
-      - Imanol Luengo
-      - Felix Fuentes
-      - Evangello Flouty
-      - Ahmed Mohammed
-      - Marius Pedersen
-    booktitle: arXiv preprint arXiv:2001.11190
-    year: 2020
-    url: https://arxiv.org/abs/2001.11190v3
-
-  - type: inproceedings
-    title: "Real-time vehicle make and model recognition with the residual SqueezeNet architecture"
-    authors:
-      - Hyo Jong Lee
-      - Ihsan Ullah
-      - Weiguo Wan
-      - Yongbin Gao
-      - Zhijun Fang
-    booktitle: Sensors
-    year: 2019
-    volume: 19
-    number: 5
-    pages: 982
-    doi: https://doi.org/10.3390/s19050982
-
-  - type: article
-    title: "Machine learning-enabled power scheduling in IoT-based smart cities"
-    authors:
-      - Nabeela Awan
-      - Salman Khan
-      - M Khalid Imam Rahmani
-      - Muhammad Tahir
-      - Nur Alam
-      - Ryan Alturki
-      - Ihsan Ullah
-    journal: Comput. Mater. Contin
-    year: 2021
-    volume: 67
-    number: 2
-    pages: 2449–2462
-
-  - type: inproceedings
-    title: "Catheter synthesis in X-Ray fluoroscopy with generative adversarial networks"
-    authors:
-      - Ihsan Ullah
-      - Philip Chikontwe
-      - Sang Hyun Park
-    booktitle: MICCAI PRIME workshop
-    pages: 125–133
-    year: 2019
-    url: https://link.springer.com/chapter/10.1007/978-3-030-32281-6_13
-
-  - type: inproceedings
-    title: "Guidewire Tip Tracking using U-Net with Shape and Motion Constraints"
-    authors:
-      - Ihsan Ullah
-      - Philip Chikontwe
-      - Sang Hyun Park
-    booktitle: 2019 International Conference on Artificial Intelligence in Information and Communication (ICAIIC)
-    pages: 215-217
-    year: 2019
-    doi: https://doi.org/10.1109/ICAIIC.2019.8669088
-
-  - type: inproceedings
-    title: "Recurrent Attention Models for Tissue Histopathology Image Classification"
-    authors:
-      - Philip Chikontwe
-      - Ihsan Ullah
-      - Janghyeon Kim
-      - DongKyu Won
-      - Sang Hyun Park
-    booktitle: 31st Workshop on Image Processing and Image Understanding (IPIU)
-    year: 2019
-    url: http://ipiu.or.kr/2019/oral.html
-
-  - type: inproceedings
-    title: "Moving vehicle detection and information extraction based on deep neural network"
-    authors:
-      - Ihsan Ullah
-      - Hyo Jong Lee
-    booktitle: Proceedings of the International Conference on Image Processing, Computer Vision, and Pattern Recognition (IPCV)
-    pages: 102–107
-    year: 2017
-    url: https://csce.ucmss.com/books/LFS/CSREA2017/IPC6015.pdf
-
-  - type: inproceedings
-    title: "An approach of locating Korean vehicle license plate based on mathematical morphology and geometrical features"
-    authors:
-      - Ihsan Ullah
-      - Hyo Jong Lee
-    booktitle: 2016 International Conference on Computational Science and Computational Intelligence (CSCI)
-    pages: 836–840
-    year: 2016
-    url: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7881455
-
-  - type: inproceedings
-    title: "License Plate Detection Based on Rectangular Features and Multilevel Thresholding"
-    authors:
-      - Ihsan Ullah
-      - Hyo Jong Lee
-    booktitle: Proceedings of the International Conference on Image Processing, Computer Vision, and Pattern Recognition (IPCV)
-    pages: 153
-    year: 2016
-    url: http://worldcomp-proceedings.com/proc/p2016/IPC4045.pdf
+    pdf: "https://ieeexplore.ieee.org/document/9504012"
