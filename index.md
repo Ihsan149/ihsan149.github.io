@@ -6,7 +6,7 @@ title: Home
 <div class="section intro reveal">
     <h2 class="gradient-text">Biography</h2>
 
-    <p>I am a Research Fellow at the Camera Culture Group (CCG), Daegu Gyeongbuk Institute of Science and Technology (DGIST), working with Prof. <a href="https://sites.google.com/view/ccg-dgist/people/team-leader" target="_blank">Hyunki Lee</a>. Previously, I worked at the Medical Imaging and Signal Processing Laboratory (MISPL) at DGIST under the supervision of Prof. <a href="[https://scholar.google.com/citations?user=M9u8pFEAAAAJ](https://sites.google.com/view/mispl/members/professor)" target="_blank">Sang Hyun Park</a>.</p>
+    <p>I am a Research Fellow at the Camera Culture Group (CCG), Daegu Gyeongbuk Institute of Science and Technology (DGIST), working with Prof. <a href="https://sites.google.com/view/ccg-dgist/people/team-leader" target="_blank">Hyunki Lee</a>. Previously, I worked at the Medical Imaging and Signal Processing Laboratory (MISPL) at DGIST under the supervision of Prof. <a href="https://sites.google.com/view/mispl/members/professor" target="_blank">Sang Hyun Park</a>.</p>
 
     <p>I received my Ph.D. in Robotics and Mechatronics Engineering from DGIST, South Korea, in 2023, M.S. degree in Computer Science from Chonbuk National University, South Korea, in 2017, and B.S. degree in Computer Science from Abdul Wali Khan University, Pakistan, in 2014.</p>
 
