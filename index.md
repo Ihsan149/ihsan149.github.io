@@ -10,7 +10,7 @@ title: Home
 
     <p>I received my Ph.D. in Robotics and Mechatronics Engineering from DGIST, South Korea, in 2023, M.S. degree in Computer Science from Chonbuk National University, South Korea, in 2017, and B.S. degree in Computer Science from Abdul Wali Khan University, Pakistan, in 2014.</p>
 
-    <p>My research focuses on developing robust AI-based methods for medical imaging, particularly in video domain adaptation, visual-language representation learning, and generative AI techniques. I aim to bridge the gap between AI and healthcare, particularly in the context of tumor detection and characterization, to pave the way for more personalized medical approaches.</p>
+    <p>My research focuses on developing robust AI-based methods for medical imaging, particularly in video domain adaptation, visual-language representation learning, and generative AI techniques. I aim to bridge the gap between computer vision and healthcare, particularly in utilizing motion information for scene understanding.</p>
 
     <a href="https://scholar.google.com/citations?user=eod9uX0AAAAJ&hl=en" target="_blank">Google Scholar Profile</a>
 </div>
