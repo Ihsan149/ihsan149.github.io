@@ -14,19 +14,20 @@ permalink: /research/
         <h3>Medical Image Analysis</h3>
         <p>Developing advanced deep learning algorithms for medical image processing, segmentation, and classification. Current focus includes:</p>
         <ul>
-            <li>Histopathology image analysis</li>
+            <li>Fluoroscopy/X-Ray image analysis</li>
             <li>Multi-modal medical image processing</li>
-            <li>Automated disease detection and classification</li>
+            <li>Automated disease detection, classification and segmentation</li>
         </ul>
     </div>
 
     <div class="research-card">
-        <h3>Few-Shot Learning</h3>
+        <h3>Domain Adaptation</h3>
         <p>Innovation in learning from limited data samples through:</p>
         <ul>
+            <li>Domain adaptive learning approaches</li>
             <li>Novel neural network architectures</li>
             <li>Transfer learning strategies</li>
-            <li>Meta-learning approaches</li>
+            
         </ul>
     </div>
 
@@ -36,7 +37,6 @@ permalink: /research/
         <ul>
             <li>Multi-modal learning frameworks</li>
             <li>Cross-modal representation learning</li>
-            <li>Image text retrieval</li>
         </ul>
     </div>
 </div>
