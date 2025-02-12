@@ -24,17 +24,17 @@ featured:
     pdf: "https://www.nature.com/articles/s41598-023-27815-w"
 
 all:
-  - title: "Towards Real-Time Drone Detection and Tracking in Thermal Infrared Videos for Anti-Drone System"
-    authors: "Ihsan Ullah, Hyunki Lee"
-    venue: "Applied Intelligence"
-    year: 2024
-    pdf: "https://www.springer.com/journal/10489"
+  # - title: "Towards Real-Time Drone Detection and Tracking in Thermal Infrared Videos for Anti-Drone System"
+  #   authors: "Ihsan Ullah, Hyunki Lee"
+  #   venue: "Applied Intelligence"
+  #   year: 2024
+  #   pdf: "https://www.springer.com/journal/10489"
 
-  - title: "White Matter Multiple Sclerosis Lesion Segmentation under Distributional Shifts"
-    authors: "Haider Ali, Ihsan Ullah, Waris Asim, Shehzad Adeeb, Hyunki Lee"
-    venue: "Multiple Sclerosis Journal"
-    year: 2024
-    pdf: "https://journals.sagepub.com/home/msj"
+  # - title: "White Matter Multiple Sclerosis Lesion Segmentation under Distributional Shifts"
+  #   authors: "Haider Ali, Ihsan Ullah, Waris Asim, Shehzad Adeeb, Hyunki Lee"
+  #   venue: "Multiple Sclerosis Journal"
+  #   year: 2024
+  #   pdf: "https://journals.sagepub.com/home/msj"
 
   - title: "Target-specified Reference-based Deep Learning Network for Joint Image Deblurring and Resolution Enhancement in Surgical Zoom lens Camera Calibration"
     authors: "Ho-Gun Ha, Deokgi Jeung, Ihsan Ullah, Junichi Tokuda, Jaesung Hong, Hyunki Lee"
