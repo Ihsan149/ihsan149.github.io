@@ -241,6 +241,14 @@ input:checked + .slider:before {
   }
 }
 
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+
 /* Research Grid */
 .research-grid {
   display: grid;
