@@ -1,14 +1,13 @@
 ---
 layout: page
-title: "Portfolio"
+title: Portfolio
 permalink: /portfolio/
 ---
 
+## My Project Videos
 
-## My Project Demos
+- **Project A**
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID1" frameborder="0" allowfullscreen></iframe>
 
-- **Project Alpha**  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_ALPHA" frameborder="0" allowfullscreen></iframe>
-
-- **Project Beta**  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_BETA" frameborder="0" allowfullscreen></iframe>
+- **Project B**
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID2" frameborder="0" allowfullscreen></iframe>
