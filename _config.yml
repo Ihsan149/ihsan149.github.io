@@ -42,6 +42,9 @@ collections:
     output: true
     permalink: /news/:year/:month/:day/:title/
 
+   portfolio:
+    output: true
+
 # Exclude from processing
 exclude:
   - Gemfile
