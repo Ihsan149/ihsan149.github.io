@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "Portfolio"
+title: Portfolio
 permalink: /portfolio/
 ---
 
-<h2>My Projects</h2>
+<h2 class="gradient-text">My Portfolio</h2>
 
 <div class="portfolio-grid">
   {% for item in site.portfolio %}
-    <div class="portfolio-item">
+    <div class="publication-card">
       <h3><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h3>
       <p>{{ item.excerpt | markdownify }}</p>
     </div>
