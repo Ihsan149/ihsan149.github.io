@@ -1,0 +1,16 @@
+---
+layout: page
+title: "Portfolio"
+permalink: /portfolio/
+---
+
+<h2>My Projects</h2>
+
+<div class="portfolio-grid">
+  {% for item in site.portfolio %}
+    <div class="portfolio-item">
+      <h3><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h3>
+      <p>{{ item.excerpt | markdownify }}</p>
+    </div>
+  {% endfor %}
+</div>
