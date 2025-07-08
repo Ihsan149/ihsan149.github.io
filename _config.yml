@@ -41,9 +41,9 @@ collections:
   posts:
     output: true
     permalink: /news/:year/:month/:day/:title/
-
-   portfolio:
+  portfolio:
     output: true
+
 
 # Exclude from processing
 exclude:
